@@ -1,0 +1,19 @@
+{
+  "name": "@bachman-dev/eslint-config-bachman-dev",
+  "version": "1.0.0",
+  "description": "ESLint shared configuration used by Bachman Dev projects",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Collin Bachman <collin@bachman.io> (https://www.bachmacintosh.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bachman-dev/eslint-config-bachman-dev.git"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 8.8.0"
+  }
+}
