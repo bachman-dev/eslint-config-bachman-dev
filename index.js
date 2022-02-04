@@ -47,7 +47,7 @@ module.exports = {
     "init-declarations": ["error", "always",],
     "max-depth": ["error", 4,],
     "max-lines": ["error", 1000,],
-    "max-lines-per-function": ["error", 500,],
+    "max-lines-per-function": ["error", 1000,],
     "max-nested-callbacks": ["error",],
     "max-params": ["error", 4,],
     "max-statements": "off",
