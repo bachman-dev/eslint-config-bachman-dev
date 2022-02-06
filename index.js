@@ -200,7 +200,6 @@ module.exports = {
     "multiline-ternary": ["error", "always-multiline",],
     "new-parens": "error",
     "newline-per-chained-call": "error",
-    "no-extra-parens": ["error", "all"],
     "no-multi-spaces": "error",
     "no-multiple-empty-lines": "error",
     "no-tabs": "error",
