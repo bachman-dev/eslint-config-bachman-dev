@@ -41,7 +41,7 @@ module.exports = {
     "func-style": ["error", "declaration", { allowArrowFunctions: true, },],
     "grouped-accessor-pairs": ["error", "getBeforeSet",],
     "guard-for-in": "error",
-    "id-denylist": ["cb", "callback",],
+    "id-denylist": ["error", "cb", "callback",],
     "id-length": "error",
     "id-match": "off",
     "init-declarations": ["error", "always",],
